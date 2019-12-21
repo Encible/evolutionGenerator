@@ -1,0 +1,11 @@
+{
+  "width": 100,
+  "height": 100,
+  "jungleRatio": 0.6,
+  "startEnergy": 50,
+  "plantEnergy": 40,
+  "moveEnergy": 3,
+  "animalsNum": 10,
+  "plantsPerDay": 20,
+  "msDelay": 100
+}
